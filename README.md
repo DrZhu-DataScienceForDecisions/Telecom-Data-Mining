@@ -1,6 +1,6 @@
 ## Telecommunications Data Mining
 
-#### Goal: detect and analyze signal interference patterns in telecommunication coverage area; assist telecommunication companies in optimizing the layout and topology of base transceiver station to reduce signal interference and enhance quality of service.
+#### Goal: detect and analyze signal interference patterns in telecommunication coverage area; help telecommunication companies optimize the layout and topology of base transceiver station to reduce signal interference and enhance quality of service.
 
 #### This repo provides AI-based clustering solutions and data analysis methods for detecting, distinguishing and analyzing signal interference patterns. Signal interference data is mapped into a multi-dimensional space, and clustering algorithms are applied to separate and visualize the patterns with distinct color coding.
 
