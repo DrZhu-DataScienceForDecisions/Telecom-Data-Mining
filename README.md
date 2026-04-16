@@ -1,2 +1,1 @@
-# Telecom-Data-Mining
-Telecommunication Data Analysis
+# Telecommunications Data Mining
