@@ -8,4 +8,4 @@
 
 #### Selected result is shown below
 
-![Demo](1.PNG)
+![Demo](1.png)
